@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Quiz4'
+  name: 'Quiz4'
 
 variables:
   solution: '**/*.sln'
